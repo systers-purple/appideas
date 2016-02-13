@@ -9,3 +9,10 @@ A UI with larger fonts, bigger buttons, text to voice, etc. An app that provides
 
 3. A localized buy/sell/trade site/app
 Craigslist must be the ugliest, most successful website I know of. A smaller, prettier version of that - maybe with a pinterest look, I'm not sure.
+
+4. Check on/keep up with/emergency help with aging parents
+An app to help keep track of aging parents' details: their bank info, doctor info, close friends phone numbers, daily schedules, medicines, etc. Easy to use and not creepy-feeling. 
+
+5. Menopause symptom tracker: what works? When will it be over? How uncomfortable is too uncomfortable?
+
+6. Find that factory: Something that tracks codes and brand names back to factories by scanning them in the store, to increase a shopper's ability to vote with their dollar about sustainably/ethically sourced goods. 
